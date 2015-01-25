@@ -1,2 +1,3 @@
 markdown_ext: "md"
 markdown: kramdown
+pagenate: 1
